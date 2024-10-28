@@ -1,0 +1,1 @@
+This project involves developing a script that converts a given lowercase string into the smallest possible palindrome by adding characters to the beginning. The script utilizes recursive functions to check for palindromic properties and performs tests to validate its functionality, making it a practical tool for understanding string manipulation and algorithmic efficiency.
